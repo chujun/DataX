@@ -1,0 +1,15 @@
+{
+    "name": "db2writer",
+    "parameter": {
+        "username": "",
+        "password": "",
+        "column": [],
+        "preSql": [],
+        "connection": [
+            {
+                "jdbcUrl": "",
+                "table": []
+            }
+        ]
+    }
+}
